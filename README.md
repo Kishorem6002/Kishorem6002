@@ -9,7 +9,7 @@ Building AI-powered systems, scalable web applications, and solving real-world p
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;MERN+Stack+Developer;Agentic+AI+Builder;Competitive+Programmer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;MERN+Stack+Developer;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
