@@ -141,9 +141,9 @@ Built scalable MERN applications featuring:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Kishorem6002
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/kishore-m-851805330/?skipRedirect=true
+- Portfolio: https://kishore006.netlify.app/
+- Email: mkkishore084@gmail.com
 
 ---
 
