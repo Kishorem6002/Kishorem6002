@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kishore</h1>
+<h1 align="center">Hi 👋, I'm Kishore M</h1>
 
 <h3 align="center">
-Machine Learning Engineer | MERN Stack Developer | AI Enthusiast
+Machine Learning Engineer • Full Stack Developer • Competitive Programmer
 </h3>
 
 <p align="center">
-Building intelligent systems and scalable web applications.
+Building AI-powered systems and scalable web applications.
 </p>
 
 ---
@@ -13,47 +13,51 @@ Building intelligent systems and scalable web applications.
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 🤖 Passionate about Machine Learning & AI
-- 🌐 Full Stack MERN Developer
-- 💡 Interested in Agentic AI Systems
-- 🏆 Solving DSA Problems on LeetCode
-
+- 🤖 Machine Learning & AI Enthusiast
+- 🌐 MERN Stack Developer
+- 🧠 Competitive Programmer
+- 🚚 Building Multi-Agent AI Systems
+- 📈 Passionate about solving real-world problems through technology
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
-- Python
-- JavaScript
-- C++
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,mysql" />
+</p>
 
 ### Frontend
 
-- React.js
-- HTML
-- CSS
-- Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
 
-- MongoDB
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### AI / ML
 
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- LangChain
-- LangGraph
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 
@@ -61,45 +65,90 @@ Building intelligent systems and scalable web applications.
 
 ### 🚚 AI Logistics Optimization System
 
-Multi-Agent AI architecture that:
+Multi-Agent AI platform designed to:
 
-- Optimizes routes
-- Allocates vehicles
-- Generates intelligent recommendations
-- Uses Planner, Executor, Critic Agents
+- Optimize delivery routes
+- Allocate vehicles intelligently
+- Reduce logistics costs
+- Generate AI-powered recommendations
 
-### 🌐 Portfolio Website
+**Tech Stack**
 
-Modern responsive portfolio built using React.
-
-### 🛒 MERN Full Stack Application
-
-Authentication, CRUD operations, Dashboard, REST APIs.
+`Python` `LLMs` `Optimization` `Agentic AI`
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 NLP & Machine Learning Projects
 
-![](https://github-readme-stats.vercel.app/api?username=Kishorem6002&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorem6002&layout=compact)
+- Text Classification
+- Semantic Search
+- Sentence Embeddings
+- Predictive Analytics
+- Recommendation Systems
 
 ---
 
-## 🏆 Coding Profiles
+### 🌐 Full Stack Web Applications
 
-- LeetCode
-- HackerRank
-- CodeChef
+Built scalable MERN applications featuring:
+
+- Authentication
+- REST APIs
+- Admin Dashboards
+- Responsive UI
+- Database Integration
+
+---
+
+## 📊 Competitive Programming
+
+<div align="center">
+
+[LeetCode](https://leetcode.com/u/kishorem_2006/) •
+[CodeChef](https://www.codechef.com/users/kishorem_005) •
+[Codeforces](https://codeforces.com/profile/kishorem.2006)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kishorem6002&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorem6002&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Kishorem6002&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Current Focus
+
+- Agentic AI Systems
+- Large Language Models
+- Machine Learning Engineering
+- Full Stack Development
+- Data Structures & Algorithms
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [](https://www.linkedin.com/in/kishore-m-851805330)
-- Portfolio: [](https://kishore006.netlify.app)
-- Email: [](mkkishore084@gmail.com)
+- GitHub: https://github.com/Kishorem6002
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+- Email: YOUR_EMAIL
 
 ---
 
-⭐ Always excited to collaborate on AI, Machine Learning and Full Stack projects.
+<p align="center">
+
+"Transforming ideas into intelligent solutions."
+
+</p>
